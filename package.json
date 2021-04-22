@@ -5,6 +5,7 @@
   "scripts": {},
   "author": "Norbert Bodziony",
   "dependencies": {
+    "@ledgerhq/hw-transport-node-hid": "^5.49.0",
     "@ledgerhq/hw-transport-webusb": "^5.49.0",
     "@project-serum/anchor": "^0.4.4",
     "@project-serum/serum": "^0.13.33",
